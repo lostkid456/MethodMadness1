@@ -5,7 +5,9 @@ public class TestFile {
 
         System.out.println("Hello Method Madness");
         System.out.println(JZhaoLib.quadSolver(1,2,1));
-        System.out.println(JZhaoLib.stringUnion();
+        System.out.println(JZhaoLib.leastCommonMultiple(1,2,3));
+        System.out.println(JZhaoLib.stringUnion());
+        System.out.println(JZhaoLib.vigCipher());
 
     }
 }
